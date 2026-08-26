@@ -1,0 +1,6 @@
+2026-08-26 22:30:28,886 - INFO - Pipeline started.
+2026-08-26 22:30:28,886 - INFO - Starting customer processing.
+2026-08-26 22:30:32,485 - INFO - Customer processing completed.
+2026-08-26 22:30:32,485 - INFO - Starting transaction processing.
+2026-08-26 22:30:32,524 - INFO - Transaction processing completed.
+2026-08-26 22:30:32,524 - INFO - Pipeline completed successfully.

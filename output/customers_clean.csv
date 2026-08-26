@@ -1,0 +1,10 @@
+Customer_ID,Customer_Name,Email,Country,Registration_Date,Customer_Status
+C001,John Tan,john.tan@example.com,Malaysia,2025-01-15,ACTIVE
+C002,Sarah Lim,sarah.lim@example.com,Malaysia,2025-02-20,ACTIVE
+C003,Michael Wong,michael.wong@example.com,Singapore,2025-03-10,ACTIVE
+C004,Emily Lee,emily.lee@example.com,Malaysia,2025-04-05,INACTIVE
+C005,Daniel Tan,unknown@example.com,Malaysia,2025-04-15,ACTIVE
+C006,Amanda Ng,amanda.ng@example.com,Malaysia,2025-05-01,ACTIVE
+C007,Robert Chan,robert.chan@example.com,Malaysia,2025-05-10,ACTIVE
+C008,Lisa Wong,lisa.wong@example.com,Singapore,2025-06-20,ACTIVE
+C009,James Lim,james.lim@example.com,Malaysia,2025-07-01,CLOSED
